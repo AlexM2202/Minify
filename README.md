@@ -23,8 +23,10 @@ Minify is a modern WPF desktop application for Windows that provides a minimal, 
 ### Setup
 
 1. **Clone the repository:**
-   ```git clone https://github.com/yourusername/minify.git
-      cd minify```
+   ```bash
+   git clone https://github.com/yourusername/minify.git
+   cd minify
+   ```
 
 
 2. **Configure Spotify Credentials:**
