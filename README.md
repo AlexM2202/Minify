@@ -12,10 +12,6 @@ Minify is a modern WPF desktop application for Windows that provides a minimal, 
 - **Minimal API Usage:** Efficiently polls Spotify only when necessary to reduce API calls.
 - **Modern UI:** Built with [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) and [ControlzEx](https://github.com/ControlzEx/ControlzEx) for a sleek, dark-themed interface.
 
-## Screenshots
-
-*(Add screenshots here if available)*
-
 ## Getting Started
 
 ### Prerequisites
@@ -27,7 +23,8 @@ Minify is a modern WPF desktop application for Windows that provides a minimal, 
 ### Setup
 
 1. **Clone the repository:**
-   git clone https://github.com/yourusername/minify.git cd minify
+   ```git clone https://github.com/yourusername/minify.git
+      cd minify```
 
 
 2. **Configure Spotify Credentials:**
